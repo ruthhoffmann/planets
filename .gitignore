@@ -1,0 +1,8 @@
+# exclude intermed files
+*.dat
+
+# exclude results
+result/
+
+# exclude emacs
+*~
